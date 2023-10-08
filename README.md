@@ -1,2 +1,2 @@
-# Data-cleaning-projects
-data wrangling
+# Data-Analysis-projects
+Data Analysis
