@@ -6,7 +6,7 @@ Repository containing portfolio of data analysis projects completed by me for ac
 - [Hypothesis Testing in Healthcare: Drug Safety](https://github.com/luisokech/Data-Analysis-projects/blob/main/Hypothesis%20Testing%20in%20Healthcare%20Drug%20Safety.ipynb): Perform hypothesis tests to determine if the adverse effects of a pharmaceutical drug are significant! You'll conduct several hypothesis tests using Python to determine if the adverse reactions of a hypothetical drug are significant. You'll also check if factors such as age significantly influence the adverse reactions.
 - [Hypothesis Testing with Men's and Women's Soccer Matches](https://github.com/luisokech/Data-Analysis-projects/blob/main/Hypothesis%20testng%20with%20men's%20and%20women's%20soccer%20matches.ipynb): Perform a hypothesis test to determine if more goals are scored in women's soccer matches than men's! You will test the hypothesis to determine if women's international soccer matches result in more goals scored than men's.
 		
-	_Tools: Pandas, Folium, Seaborn and Matplotlib_
+	_Tools: Pandas, Seaborn and Matplotlib_
 
 ### Data Analysis and Visualisation
 __Python__
