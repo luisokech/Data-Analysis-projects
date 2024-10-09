@@ -14,9 +14,8 @@ __Python__
 - [Pet Box Subscription](https://github.com/luisokech/Data-Analysis-projects/blob/main/Pet%20Box%20Subscription.ipynb): Case study to reduce the cost of customer retention by improving brand loyalty. The first strategy is to launch a monthly pet box subscription in three months.
   
 __Power BI__
-- [Patients Healthcare]: The goal of this Power BI healthcare project could be to analyze patient satisfaction, wait time efficiency, and departmental referral trends. By examining demographic factors such as age, gender, race, alongside patient satisfaction scores and wait times, the project can identify patterns and provide insights into improving healthcare access and operational efficiency. Additionally, exploring flagged administrative cases and their impact on patient experiences could help streamline hospital processes and enhance service delivery across different departments.
+- Patients Healthcare: The goal of this Power BI healthcare project could be to analyze patient satisfaction, wait time efficiency, and departmental referral trends. By examining demographic factors such as age, gender, race, alongside patient satisfaction scores and wait times, the project can identify patterns and provide insights into improving healthcare access and operational efficiency. Additionally, exploring flagged administrative cases and their impact on patient experiences could help streamline hospital processes and enhance service delivery across different departments.
 - ![health](https://github.com/user-attachments/assets/97fd4e35-7f6f-4047-8734-791db6b2b7a4)
-  
 - [Coffee Shop Sales](https://github.com/luisokech/Power-BI): the goal could be to analyze and visualize sales performance, providing actionable insights into different aspects of the business. Here are some possible goals for the report or dashboard:
   		 Monitor Overall Sales Performance
     		 Identify Best-Selling Products
