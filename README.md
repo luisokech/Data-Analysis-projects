@@ -18,5 +18,6 @@ __Power BI__
   		 Monitor Overall Sales Performance
     		 Identify Best-Selling Products
      		 Sales by Location:
+  ![Screenshot 2024-09-21 164205](https://github.com/user-attachments/assets/c59781f0-92ba-4a2d-86b2-f824f4577764)
 		
 ### Support My Work
