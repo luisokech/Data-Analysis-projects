@@ -12,13 +12,13 @@ Repository containing portfolio of data analysis projects completed by me for ac
 	_Tools: Pandas, Folium, Seaborn and Matplotlib_
 
 - ### Data Analysis and Visualisation
-  -__Python__
-		- [olympics-data-exploration-prediction](https://github.com/luisokech/Data-Analysis-projects/blob/main/olympics-data-exploration-prediction.ipynb): The primary goal is to explore historical Olympics data to uncover patterns, trends, and factors that influence athletic performance. Furthermore, the project can involve predicting outcomes such as medal counts for countries, athletes' performance, or even the likelihood of breaking world records in specific sports.
-  	- [Pet Box Subscription](https://github.com/luisokech/Data-Analysis-projects/blob/main/Pet%20Box%20Subscription.ipynb): Case study to reduce the cost of customer retention by improving brand loyalty. The first strategy is to launch a monthly pet box subscription in three months.
-- __Power BI__
-  	- [Coffee Shop Sales](https://github.com/luisokech/Power-BI): the goal could be to analyze and visualize sales performance, providing actionable insights into different aspects of the business. Here are some possible goals for the report or dashboard:
-  	- Monitor Overall Sales Performance
-    - Identify Best-Selling Products
-    - Sales by Location:
+__Python__
+- [olympics-data-exploration-prediction](https://github.com/luisokech/Data-Analysis-projects/blob/main/olympics-data-exploration-prediction.ipynb): The primary goal is to explore historical Olympics data to uncover patterns, trends, and factors that influence athletic performance. Furthermore, the project can involve predicting outcomes such as medal counts for countries, athletes' performance, or even the likelihood of breaking world records in specific sports.
+  - [Pet Box Subscription](https://github.com/luisokech/Data-Analysis-projects/blob/main/Pet%20Box%20Subscription.ipynb): Case study to reduce the cost of customer retention by improving brand loyalty. The first strategy is to launch a monthly pet box subscription in three months.
+__Power BI__
+- [Coffee Shop Sales](https://github.com/luisokech/Power-BI): the goal could be to analyze and visualize sales performance, providing actionable insights into different aspects of the business. Here are some possible goals for the report or dashboard:
+  		 Monitor Overall Sales Performance
+    		 Identify Best-Selling Products
+     		 Sales by Location:
 		
 ### Support My Work
