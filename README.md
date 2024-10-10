@@ -1,5 +1,7 @@
 # Data-Analysis-projects
 Repository containing portfolio of data analysis projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter notebooks
+- **Email**: [luisokech@gmail.com](luisokech@gmail.com)
+- **LinkedIn**: [linkedin.com/in/luis-okech](www.linkedin.com/in/luis-okech)
 
 ### Statistics
 - [AB Testing with Cookie Cats](https://github.com/luisokech/Data-Analysis-projects/blob/main/AB%20Testing%20with%20Cookie%20Cats.ipynb): Using statistical analysis to analyze an AB-test where we moved the first gate in Cookie Cats from level 30 to level 40. In particular, we will look at the impact on player retention on where the gates should be placed (level 30 or level 40)
