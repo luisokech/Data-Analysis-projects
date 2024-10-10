@@ -2,7 +2,7 @@
 Repository containing portfolio of data analysis projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter notebooks
 - **Email**: [luisokech@gmail.com](luisokech@gmail.com)
 - **LinkedIn**: [linkedin.com/in/luis-okech](www.linkedin.com/in/luis-okech)
-
+#
 ### Statistics
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/e56c94e6-e64c-47a7-8560-30c395699ec1">[AB Testing with Cookie Cats](https://github.com/luisokech/Data-Analysis-projects/blob/main/AB%20Testing%20with%20Cookie%20Cats.ipynb): Using statistical analysis to analyze an AB-test where we moved the first gate in Cookie Cats from level 30 to level 40. In particular, we will look at the impact on player retention on where the gates should be placed (level 30 or level 40)
 #
@@ -20,6 +20,7 @@ __Python__
 #
 #
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/db4ef2e7-6eab-4de0-b44a-630af11bb99a">[Pet Box Subscription](https://github.com/luisokech/Data-Analysis-projects/blob/main/Pet%20Box%20Subscription.ipynb): Case study to reduce the cost of customer retention by improving brand loyalty. The first strategy is to launch a monthly pet box subscription in three months.
+  #
   #
   #
 __Power BI__
