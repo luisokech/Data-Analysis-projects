@@ -3,7 +3,7 @@ Repository containing portfolio of data analysis projects completed by me for ac
 - **Email**: [luisokech@gmail.com](luisokech@gmail.com)
 - **LinkedIn**: [linkedin.com/in/luis-okech](www.linkedin.com/in/luis-okech)
 #
-### Statistics
+## Statistics
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/e56c94e6-e64c-47a7-8560-30c395699ec1">[AB Testing with Cookie Cats](https://github.com/luisokech/Data-Analysis-projects/blob/main/AB%20Testing%20with%20Cookie%20Cats.ipynb): Using statistical analysis to analyze an AB-test where we moved the first gate in Cookie Cats from level 30 to level 40. In particular, we will look at the impact on player retention on where the gates should be placed (level 30 or level 40)
 #
 #
@@ -14,7 +14,7 @@ Repository containing portfolio of data analysis projects completed by me for ac
 		
 	_Tools: Pandas, Seaborn and Matplotlib_
 
-### Data Analysis and Visualisation
+## Data Analysis and Visualisation
 __Python__
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/1023dadb-b645-428b-ad32-455db57aaaa3">[olympics-data-exploration-prediction](https://github.com/luisokech/Data-Analysis-projects/blob/main/olympics-data-exploration-prediction.ipynb): The primary goal is to explore historical Olympics data to uncover patterns, trends, and factors that influence athletic performance. Furthermore, the project can involve predicting outcomes such as medal counts for countries, athletes' performance, or even the likelihood of breaking world records in specific sports.
 #
@@ -23,7 +23,7 @@ __Python__
   #
   #
   #
-__Power BI__
+## Power BI
 - **Patients Healthcare**: The goal of this Power BI healthcare project could be to analyze patient satisfaction, wait time efficiency, and departmental referral trends. By examining demographic factors such as age, gender, race, alongside patient satisfaction scores and wait times, the project can identify patterns and provide insights into improving healthcare access and operational efficiency. Additionally, exploring flagged administrative cases and their impact on patient experiences could help streamline hospital processes and enhance service delivery across different departments.
 - ![health](https://github.com/user-attachments/assets/97fd4e35-7f6f-4047-8734-791db6b2b7a4)
 
