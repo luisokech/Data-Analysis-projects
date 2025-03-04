@@ -12,7 +12,7 @@ Repository containing portfolio of data analysis projects completed by me for ac
 #
 #
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/e56c94e6-e64c-47a7-8560-30c395699ec1">[AB Testing with Cookie Cats](https://github.com/luisokech/Data-Analysis-projects/blob/main/AB%20Testing%20with%20Cookie%20Cats.ipynb): Using statistical analysis to analyze an AB-test where we moved the first gate in Cookie Cats from level 30 to level 40. In particular, we will look at the impact on player retention on where the gates should be placed (level 30 or level 40)
-#
+
 
 - _Tools: Pandas, Seaborn and Matplotlib_
 #
