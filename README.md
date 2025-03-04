@@ -22,7 +22,7 @@ __Python__
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/1023dadb-b645-428b-ad32-455db57aaaa3">[olympics-data-exploration-prediction](https://github.com/luisokech/Data-Analysis-projects/blob/main/olympics-data-exploration-prediction.ipynb): The primary goal is to explore historical Olympics data to uncover patterns, trends, and factors that influence athletic performance. Furthermore, the project can involve predicting outcomes such as medal counts for countries, athletes' performance, or even the likelihood of breaking world records in specific sports.
 #
 #
-<img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/db4ef2e7-6eab-4de0-b44a-630af11bb99a">[Pet Box Subscription](https://github.com/luisokech/Data-Analysis-projects/blob/main/Pet%20Box%20Subscription.ipynb): Case study to reduce the cost of customer retention by improving brand loyalty. The first strategy is to launch a monthly pet box subscription in three months.
+<img align="left" width="250" height="150" src="">[Pet Box Subscription](https://github.com/luisokech/Data-Analysis-projects/blob/main/Pet%20Box%20Subscription.ipynb): Case study to reduce the cost of customer retention by improving brand loyalty. The first strategy is to launch a monthly pet box subscription in three months.
   #
   #
   #
