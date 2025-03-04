@@ -7,7 +7,9 @@ Repository containing portfolio of data analysis projects completed by me for ac
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/459c9ec0-a638-4242-b8bb-b1f8a184a21d">[Hypothesis Testing in Healthcare: Drug Safety](https://github.com/luisokech/Data-Analysis-projects/blob/main/Hypothesis%20Testing%20in%20Healthcare%20Drug%20Safety.ipynb): Perform hypothesis tests to determine if the adverse effects of a pharmaceutical drug are significant! You'll conduct several hypothesis tests using Python to determine if the adverse reactions of a hypothetical drug are significant. You'll also check if factors such as age significantly influence the adverse reactions.
 #
 #
+#
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/db4ef2e7-6eab-4de0-b44a-630af11bb99a">[Hypothesis Testing with Men's and Women's Soccer Matches](https://github.com/luisokech/Data-Analysis-projects/blob/main/Hypothesis%20testng%20with%20men's%20and%20women's%20soccer%20matches.ipynb): Perform a hypothesis test to determine if more goals are scored in women's soccer matches than men's! You will test the hypothesis to determine if women's international soccer matches result in more goals scored than men's.
+#
 #
 #
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/e56c94e6-e64c-47a7-8560-30c395699ec1">[AB Testing with Cookie Cats](https://github.com/luisokech/Data-Analysis-projects/blob/main/AB%20Testing%20with%20Cookie%20Cats.ipynb): Using statistical analysis to analyze an AB-test where we moved the first gate in Cookie Cats from level 30 to level 40. In particular, we will look at the impact on player retention on where the gates should be placed (level 30 or level 40)
