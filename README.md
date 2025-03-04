@@ -11,7 +11,8 @@ Repository containing portfolio of data analysis projects completed by me for ac
 #
 #
 <img align="left" width="250" height="150" src="https://github.com/user-attachments/assets/db4ef2e7-6eab-4de0-b44a-630af11bb99a">[Hypothesis Testing with Men's and Women's Soccer Matches](https://github.com/luisokech/Data-Analysis-projects/blob/main/Hypothesis%20testng%20with%20men's%20and%20women's%20soccer%20matches.ipynb): Perform a hypothesis test to determine if more goals are scored in women's soccer matches than men's! You will test the hypothesis to determine if women's international soccer matches result in more goals scored than men's.
-#		
+#	
+#
 - _Tools: Pandas, Seaborn and Matplotlib_
 #
 ## Data Analysis
